@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in Perl related to comparing undefined values to strings. The bug.pl file contains code that incorrectly handles undefined variables in string comparisons, resulting in unexpected behavior. The bugSolution.pl file provides a corrected version that addresses this issue.
